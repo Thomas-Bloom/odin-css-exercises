@@ -30,9 +30,8 @@ img {
 .content {
   display: flex;
   justify-content: center;
-  gap: 52px;
 }
 
-.info {
+.plant-info {
   max-width: 200px;
 }
